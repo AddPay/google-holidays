@@ -1,0 +1,17 @@
+{
+  "name": "stephenlake/google-holidays",
+  "type": "library",
+  "description": "A PHP package to assist in retrieving a country's year holidays from Google Calendar API's.",
+  "keywords": ["holidays", "calendar"],
+  "authors": [{
+    "name": "Stephen Lake",
+    "email": "stephen@closurecode.com",
+    "homepage": "https://www.closurecode.com",
+    "role": "Developer"
+  }],
+  "autoload": {
+    "psr-4": {
+      "Google\\": "src/"
+    }
+  }
+}
