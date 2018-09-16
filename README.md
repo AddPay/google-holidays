@@ -1,3 +1,6 @@
+# No Longer Maintained
+Please use [PHP Google Holidays](https://github.com/stephenlake/php-google-holidays) instead!
+
 ## Usage
 
 ```php
